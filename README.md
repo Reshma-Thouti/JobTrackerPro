@@ -279,8 +279,8 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Sanketh Thatikonda**
-GitHub: https://github.com/Sanzzz1125
+**Reshma Thouti**
+GitHub: [https://github.com/Sanzzz1125](https://github.com/Reshma-Thouti)
 
 ---
 
