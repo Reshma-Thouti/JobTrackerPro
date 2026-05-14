@@ -114,7 +114,7 @@ JobTrackerPro/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Sanzzz1125/JobTrackerPro.git
+git clone https://github.com/Reshma-Thouti/JobTrackerPro.git
 cd JobTrackerPro
 ```
 
@@ -280,7 +280,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Reshma Thouti**
-GitHub: [https://github.com/Sanzzz1125](https://github.com/Reshma-Thouti)
+GitHub: https://github.com/Reshma-Thouti
 
 ---
 
